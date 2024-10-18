@@ -19,7 +19,7 @@ Worked on a range of projects for different clients, including Ford Motor Compan
 There was also involvement in systems analysis, 3rd line support and testing.
 
 ## Education
-Currently studying on the Data Analystics Career Accelerator course with LSE and Fourthrev
+Currently studying on the Data Analytics Career Accelerator course with LSE and FourthRev
 Learning data analysis using Excel, SQL, Tableau, Python and R
 
 BSc Physics 2:1 Leicester University (1996)
