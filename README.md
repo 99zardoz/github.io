@@ -1,8 +1,18 @@
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+title: "Jonathan Shields Portfolio"
+author: "Jonathan Shields"
+email: jps1608@googlemail.com
+description: >- # this means to ignore newlines until "baseurl:"
+    Personal project portfolio for Jonathan Shields
+
 # Top nav header settings:
 header_pages:
   - Power BI Projects/PowerBI/PowerBI.md
-  - webinars.md
-  - about.markdown
 
 #Portfolio site for Jonathan Shields
 ## Contact details [Email](mailto:jps1608@googlemail.com) jps1608@googlemail.com
