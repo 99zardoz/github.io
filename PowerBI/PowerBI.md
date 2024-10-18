@@ -1,6 +1,8 @@
+---
 layout: page
-title: PowerBI Projects
+title: PowerBI projects
 permalink: /PowerBI/
+---
 
 # PowerBI projects
 
