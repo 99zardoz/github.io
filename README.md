@@ -1,9 +1,11 @@
+---
 layout: home
 title: "Jonathan Shields Portfolio"
 author: "Jonathan Shields"
 email: jps1608@googlemail.com
 description: >- # this means to ignore newlines until "baseurl:"
     Personal project portfolio for Jonathan Shields
+---
 
 [Power BI projects]({{ site.baseurl }}{% link PowerBI/PowerBI.md %})
 
