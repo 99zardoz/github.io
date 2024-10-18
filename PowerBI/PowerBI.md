@@ -1,3 +1,7 @@
+layout: page
+title: PowerBI Projects
+permalink: /PowerBI/
+
 # PowerBI projects
 
 This page includes some personal Power BI projects developed while I was studying for the PL-300 certification.
