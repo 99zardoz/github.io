@@ -9,7 +9,7 @@ header_pages:
 
 [Power BI projects]({{ site.baseurl }}{% link PowerBI/PowerBI.md %})
 
-#Portfolio site for Jonathan Shields
+# Portfolio site for Jonathan Shields
 ## Contact details [Email](mailto:jps1608@googlemail.com) jps1608@googlemail.com
 ## Current position
 I worked as a Software Developer in both the private and not for profit sectors since 1997. I am currently looking to transition into a Data Analytics role and to enable this am taking the Data Analytics postgraduate career accelerator course run by the LSE and FourthRev. This involves learning data analytics using Excel, SQL, Tableau, Python and R. I also used my recent career break to learn Power BI and gain Microsoft Power BI Data Analyst Associate certification.
