@@ -25,3 +25,4 @@ BSc Physics 2:1 Leicester University (1996)
 
 ## Certifications
 Microsoft Certified Power BI Analyst Associate
+   
