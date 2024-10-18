@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PowerBI projects
-permalink: /PowerBI/
+permalink: /gh-pages/
 ---
 
 # PowerBI projects
