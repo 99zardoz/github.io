@@ -1,5 +1,5 @@
 --- 
-layout: home
+layout: default
 title: "Jonathan Shields Portfolio"
 author: "Jonathan Shields"
 email: jps1608@googlemail.com
@@ -7,7 +7,7 @@ description: >- # this means to ignore newlines until "baseurl:"
     Personal project portfolio for Jonathan Shields
 ---
 
-[Power BI projects]({{ site.baseurl }}{% link gh-pages/PowerBI.md %})
+[Power BI projects]({{ site.baseurl }}{% link PowerBI.md %})
 
 # Portfolio site for Jonathan Shields
 ## Contact details [Email](mailto:jps1608@googlemail.com) jps1608@googlemail.com

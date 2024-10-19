@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: default
 title: PowerBI projects
-permalink: /gh-pages/
 ---
 
 # PowerBI projects
+
+[Back](./)
 
 This page includes some personal Power BI projects developed while I was studying for the PL-300 certification.
 
