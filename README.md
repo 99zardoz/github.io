@@ -1,4 +1,4 @@
----
+--- 
 layout: home
 title: "Jonathan Shields Portfolio"
 author: "Jonathan Shields"
