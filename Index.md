@@ -1,5 +1,5 @@
 --- 
-layout: default
+layout: default 
 title: "Jonathan Shields Portfolio"
 author: "Jonathan Shields"
 email: jps1608@googlemail.com
