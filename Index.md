@@ -1,4 +1,4 @@
---- 
+---
 layout: default 
 title: "Jonathan Shields Portfolio"
 author: "Jonathan Shields"
