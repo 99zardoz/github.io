@@ -7,7 +7,7 @@ description: >- # this means to ignore newlines until "baseurl:"
     Personal project portfolio for Jonathan Shields
 ---
 
-[Power BI projects](PowerBI.md)
+[Power BI projects](/PowerBI.md)
 
 # Portfolio site for Jonathan Shields
 ## Contact details [Email](mailto:jps1608@googlemail.com) jps1608@googlemail.com
