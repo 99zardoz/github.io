@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Power BI projects
+permalink: /PowerBI.html
 ---
 
 # Power BI projects
