@@ -7,13 +7,7 @@ description: >- # this means to ignore newlines until "baseurl:"
     Personal project portfolio for Jonathan Shields
 ---
 
-<table>
- <tr>
-  <td>
-   [Power BI projects]({{ site.baseurl }}{% link PowerBI.md %})
-  </td>
- </tr>
-</table>
+[Power BI projects]({{ site.baseurl }}{% link PowerBI.md %})
 
 # Portfolio site for Jonathan Shields
 ## Contact details [Email](mailto:jps1608@googlemail.com) jps1608@googlemail.com
