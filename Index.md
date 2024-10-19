@@ -18,13 +18,13 @@ I have skills in SSIS, SSRS and SQL server database administration and also have
 
 ## Work experience
 
-Jan 2005 - July 2024 Software Developer, Natcen Social Research
+### Jan 2005 - July 2024 Software Developer, Natcen Social Research
 
 Developing software using SQL Server and C# web API/Winforms. This includes a complex system for managing the pay claims of 700 freelance staff and also a complex Sample Management System. Both of these systems are central to NatCen's operations.
 
 Designing and specifying system amendments and providing 3rd line support. Unit, system and integration testing. SQL Server database administration and tuning. SSIS and SSRS development. I left to take a short break and then move into Data Analytics.
 
-July 1997 - December 2004 Software Analyst/Programmer, Logica (now CGI group)
+### July 1997 - December 2004 Software Analyst/Programmer, Logica (now CGI group)
 
 Worked on a range of projects for different clients, including Ford Motor Company. Major technologies used were SQL Server 7/2000, Oracle 8i/9i, classic ASP, VB6,HTML, JavaScript and some COOL:Gen/IBM mainframe. 
 There was also involvement in systems analysis, 3rd line support and testing.
