@@ -7,6 +7,8 @@ description: >- # this means to ignore newlines until "baseurl:"
     Data analytics professional with software development experience
 sidebar:
   nav: "projects"
+values:
+      author_profile: true
 ---
 
 ## Data analytics professional with software development experience
