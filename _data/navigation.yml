@@ -1,0 +1,7 @@
+# main links
+projects:
+  - title: Projects
+    children:
+      - title: "Power BI projects"
+        url: PowerBI.html
+
