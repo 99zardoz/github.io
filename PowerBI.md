@@ -35,13 +35,11 @@ The fifth page shows a pie chart of the total recovered cases by region and a li
 
 ### Deficiencies of the analysis
 
-The data only covers Jan - Jul 2020 so does not include the period where vaccines started to take effect.  It also appears that WHO regions such as Africa are underreported
-as the number of cases is quite a lot lower than expected.
+The data only covers Jan - Jul 2020 so does not include the period where vaccines started to take effect.  It also appears that WHO regions such as Africa may be underreported
+as the number of cases is quite a lot lower than other regions such as the Americas.
 
 ### Conclusions
 
-As expected growth in confirmed cases and deaths increased drastically in early April 2020.  New cases oscillates during the week, possibly due to "Monday reporting" factors.
-Deaths per case increases drastically March-May, then begins to decrease.  This may be due to healthcare systems ramping up to better cope with the crisis and the effects
-of "lockdown" measures.  Europe and the Americas have the highest cases and deaths, but again this could be affected by underreporting from some countries.
+As expected growth in confirmed cases and deaths increased drastically in early April 2020.  New cases oscillates during each week, possibly due to "Monday reporting" factors. Deaths per case increases drastically March-May, then begins to decrease.  This may be due to healthcare systems ramping up to better cope with the crisis and the effects of "lockdown" measures.  Europe and the Americas have the highest cases and deaths but again this could be affected by underreporting from some countries.
 
 
