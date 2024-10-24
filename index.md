@@ -13,7 +13,7 @@ sidebar:
 ## Data analytics professional with software development experience
 ### [Email](mailto:jps1608@googlemail.com) jps1608@googlemail.com
 ### Current position
-I worked as a Software Developer in both the private and not for profit sectors since 1997. I am currently looking to transition into a Data Analytics role and to enable this am taking the Data Analytics postgraduate career accelerator course run by the LSE and FourthRev. This involves learning data analytics using Excel, SQL, Tableau, Python and R. I also used my recent career break to learn Power BI and gain Microsoft Power BI Data Analyst Associate certification.
+I worked as a Software Developer in both the private and not for profit sectors since 1997. I am currently looking to transition into a Data Analytics role and to enable this am taking the <a href="https://www.lse.ac.uk/study-at-lse/online-learning/courses/data-analytics">Data Analytics postgraduate career accelerator course</a> run by  <a href="https://www.lse.ac.uk/">LSE</a> and <a href="https://fourthrev.com/">FourthRev</a>. This involves learning data analytics using Excel, SQL, Tableau, Python and R. I also used my recent career break to learn Power BI and gain Microsoft Power BI Data Analyst Associate certification.
 In my previous development role I was involved with Agile web API development using C# , .net Core and SQL Server. I also have experience in .net Winforms applications. 
 I have skills in SSIS, SSRS and SQL server database administration and also have experience of requirements gathering and 3rd line support.
 
