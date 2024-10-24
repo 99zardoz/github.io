@@ -2,6 +2,8 @@
 layout: single
 title: Power BI projects
 permalink: PowerBI.html
+author: Jonathan Shields
+author_profile: true
 sidebar:
   nav: "projects"
 ---

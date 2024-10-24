@@ -113,11 +113,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jonathan Shields"
-  avatar           :  headshot.jpg"
-  bio              : "Data Analyst and Software Developer"
-  location         : "Chelmsford, Essex, UK"
-  email            : jps1608@googlemail.com
+  name:              "Jonathan Shields"
+  avatar:             assets/images/Headshot.jpg"
+  bio:               "Data Analyst and Software Developer"
+  location:          "Chelmsford, Essex, UK"
+  email:             jps1608@googlemail.com
+  links:
+    - label: "LinkedIn"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.linkedin.com/in/jonathan-shields-5444674a/"
 
 # Site Footer
 footer:
@@ -166,7 +170,6 @@ exclude:
   - LICENSE
   - log
   - node_modules
-  - package.json
   - package-lock.json
   - Rakefile
   - README

@@ -1,0 +1,8 @@
+Jonathan Shields:
+  name        : "Jonathan Shields"
+  bio         : "Data Analyst and Software Developer"
+  avatar      : "/assets/images/Headshot.jpg"
+  links:
+     - label: "LinkedIn"
+       icon: "fas fa-fw fa-link"
+       url: "https://www.linkedin.com/in/jonathan-shields-5444674a/"

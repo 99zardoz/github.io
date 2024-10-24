@@ -2,13 +2,12 @@
 layout: single
 title: "Jonathan Shields"
 author: "Jonathan Shields"
+author_profile: true
 email: jps1608@googlemail.com
 description: >- # this means to ignore newlines until "baseurl:"
     Data analytics professional with software development experience
 sidebar:
   nav: "projects"
-values:
-      author_profile: true
 ---
 
 ## Data analytics professional with software development experience
