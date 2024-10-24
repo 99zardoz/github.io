@@ -12,7 +12,7 @@ This page includes some personal Power BI projects developed while I was studyin
 
 ## COVID Power BI report
 
-I developed a report on COVID during Jan - July 2020 using public domain data from Kaggle.  This uses main bar and line charts with slicers.  This was developed using a free Power BI license so I am unable to add a link to the reports directly.  The pbix file can be downloaded [here](COVID2.pbix)
+I developed a report on COVID during Jan - July 2020 using public domain data from <a href="https://www.kaggle.com/datasets/imdevskp/corona-virus-report">Kaggle<a/>.  This uses main bar and line charts with slicers.  This was developed using a free Power BI license so I am unable to add a link to the reports directly.  The pbix file can be downloaded [here](COVID2.pbix)
 
 The first page shows a table of the top 10 countries by number of confirmed cases at the end of the reporting period.  Clicking a row on the table filters the line charts
 to data from that country only.  The line charts show average confirmed cases and deaths across the reporting period for all countries.
