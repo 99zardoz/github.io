@@ -41,4 +41,4 @@ Microsoft Certified Power BI Analyst Associate
 
 ## About this site
 
-The site was built using GitHub pages and the <a href="https://mmistakes.github.io/minimal-mistakes/">Minimal Mistakes theme</a>
+The site was built using GitHub pages and the <a href="https://mmistakes.github.io/minimal-mistakes/">Minimal Mistakes theme</a>.  As I work my way through the LSE Data Analytics career accelerator, I will be adding content in Excel, Tableau, Python and R.  For now I just have a project I completed whilst studying for Microsoft Power BI certification.
