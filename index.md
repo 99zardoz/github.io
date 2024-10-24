@@ -38,3 +38,7 @@ BSc Physics 2:1 Leicester University (1996)
 
 ## Certifications
 Microsoft Certified Power BI Analyst Associate
+
+## About this site
+
+The site was built using GitHub pages and the <a href="https://mmistakes.github.io/minimal-mistakes/">Minimal Mistakes theme</a>
