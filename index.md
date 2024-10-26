@@ -21,7 +21,7 @@ I have skills in SSIS, SSRS and SQL server database administration and also have
 
 ### Jan 2005 - July 2024 Software Developer, <a href="https://natcen.ac.uk/">Natcen Social Research</a>
 
-Developing software using SQL Server and C# web API/Winforms. This includes a complex system for managing the pay claims of 700 freelance staff and also a large Sample Management System. Both of these systems are central to NatCen's operations.
+Developing software as part of an Agile project team using SQL Server and C# web API/Winforms. This includes a complex system for managing the pay claims of 700 freelance staff and also a large Sample Management System. Both of these systems are central to NatCen's operations and enable complex processes to be effectively managed.
 
 Designing and specifying system amendments and providing 3rd line support. Unit, system and integration testing. SQL Server database administration and tuning. SSIS and SSRS development. I left to take a short break and then move into Data Analytics.
 
