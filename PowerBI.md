@@ -27,11 +27,12 @@ The third page shows the changes in new cases and new deaths across the reportin
 
 ![Third Page](/assets/images/Page3.png)
 
-The fourth page shows the change in deaths by case across the reporting period, and also the cumulative deaths per confirmed case for each WHO region. A slicer allows this to be refined by WHO region, or all regions. The slicer is synced to the slicer on the previous page so changing one will filter both pages.  This analysis uses a DAX measure to find the cumulative deaths on the final day of the reporting period: DeathsAtEndOfDateRange = CALCULATE(sum(full_grouped[Deaths]),LASTDATE(full_grouped[Date]))
+The fourth page shows the change in deaths by case across the reporting period, and also the cumulative deaths per confirmed case for each WHO region. A slicer allows this to be refined by WHO region, or all regions. The slicer is synced to the slicer on the previous page so changing one will filter both pages.  This analysis uses a DAX measure to find the cumulative deaths on the final day of the reporting period: 
+`DeathsAtEndOfDateRange = CALCULATE(sum(full_grouped[Deaths]),LASTDATE(full_grouped[Date]))`
 
 ![Fourth Page](/assets/images/Page4.png)
 
-The fifth page shows a pie chart of the total recovered cases by region and a line chart showing the change in total recovered across the reporting period.  Selecting a sector of the pie chart will filter the line chart to show the selected region(s) only.  A DAX measure was used to find the recovered cases on the final day of the reporting period: CALCULATE(sum(full_grouped[Recovered]),LASTDATE(full_grouped[Date]))
+The fifth page shows a pie chart of the total recovered cases by region and a line chart showing the change in total recovered across the reporting period.  Selecting a sector of the pie chart will filter the line chart to show the selected region(s) only.  A DAX measure was used to find the recovered cases on the final day of the reporting period: `CALCULATE(sum(full_grouped[Recovered]),LASTDATE(full_grouped[Date]))`
 
 ![Fifth Page](/assets/images/Page5.png)
 
