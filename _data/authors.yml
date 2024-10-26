@@ -2,6 +2,7 @@ Jonathan Shields:
   name        : "Jonathan Shields"
   bio         : "Data Analyst and Software Developer"
   avatar      : "/assets/images/Headshot.jpg"
+  location     : "Chelmsford, Essex, UK"
   links:
      - label: "LinkedIn"
        icon: "fas fa-fw fa-link"
