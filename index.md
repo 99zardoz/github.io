@@ -13,15 +13,15 @@ sidebar:
 ## Data analytics professional with software development experience
 ### [Email](mailto:jps1608@googlemail.com) jps1608@googlemail.com
 ### Current position
-I worked as a Software Developer in both the private and not for profit sectors since 1997. I am currently looking to transition into a Data Analytics role and to enable this am taking the <a href="https://www.lse.ac.uk/study-at-lse/online-learning/courses/data-analytics">Data Analytics postgraduate career accelerator course</a> run by  <a href="https://www.lse.ac.uk/">LSE</a> and <a href="https://fourthrev.com/">FourthRev</a>. This involves learning data analytics using Excel, SQL, Tableau, Python and R. I also used my recent career break to learn Power BI and gain Microsoft Power BI Data Analyst Associate certification.
-In my previous development role I was involved with Agile web API development using C# , .net Core and SQL Server. I also have experience in .net Winforms applications. 
+I have over 20 years experience working as a software developer. I am looking to transition into a Data Analytics role and to enable this am taking the <a href="https://www.lse.ac.uk/study-at-lse/online-learning/courses/data-analytics">Data Analytics postgraduate career accelerator course</a> run by  <a href="https://www.lse.ac.uk/">LSE</a> and <a href="https://fourthrev.com/">FourthRev</a>. This involves learning data analytics using Excel, SQL, Tableau, Python and R. I also used my recent career break to learn Power BI and gain Microsoft Power BI Data Analyst Associate certification.
+In my previous development role I was involved with Agile web API development using C# , .net Core and SQL Server. I also have experience in .net Winforms applications. I worked closely with key users throughout the business to make sure that applications delivered what was needed.
 I have skills in SSIS, SSRS and SQL server database administration and also have experience of requirements gathering and 3rd line support.
 
 ## Work experience
 
 ### Jan 2005 - July 2024 Software Developer, <a href="https://natcen.ac.uk/">Natcen Social Research</a>
 
-Developing software as part of an Agile project team using SQL Server and C# web API/Winforms. This includes a complex system for managing the pay claims of 700 freelance staff and also a large Sample Management System. Both of these systems are central to NatCen's operations and enable complex processes to be effectively managed.
+Working with customers across Natcen to develop software as part of an Agile project team using SQL Server and C# web API/Winforms. This includes a complex system for managing the pay claims of 700 freelance staff and also a large Sample Management System. Both of these systems are central to NatCen's operations and enable complex processes to be effectively managed.
 
 Designing and specifying system amendments and providing 3rd line support. Unit, system and integration testing. SQL Server database administration and tuning. SSIS and SSRS development. I left to take a short break and then move into Data Analytics.
 
