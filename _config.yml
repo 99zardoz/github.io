@@ -19,7 +19,7 @@ locale                   : "en-GB"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Jonathan Shields"
 title_separator          : "-"
-subtitle                 : "Data Analyst and Software Developer"
+subtitle                 : "Data Analyst"
 name                     : "Jonathan Shields"
 description              : "Jonathan Shields's portfolio site"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -115,7 +115,7 @@ analytics:
 author:
   name:              "Jonathan Shields"
   avatar:             assets/images/Headshot.jpg"
-  bio:               "Data Analyst and Software Developer"
+  bio:               "Data Analyst with 20 years software development experience"
   location:          "Chelmsford, Essex, UK"
   email:             jps1608@googlemail.com
   links:
