@@ -2,7 +2,7 @@
 projects:
   - title: Projects
     children:
-      - title: "Power BI projects"
+      - title: "Power BI COVID project"
         url: PowerBI.html
       - title: "Testimonials"
         url: Testimonials.html

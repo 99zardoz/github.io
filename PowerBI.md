@@ -1,14 +1,12 @@
 ---
 layout: single
-title: Power BI projects
+title: COVID Power BI report
 permalink: PowerBI.html
 author: Jonathan Shields
 author_profile: true
 sidebar:
   nav: "projects"
 ---
-
-This page includes some personal Power BI projects developed while I was studying for the PL-300 certification.
 
 ## COVID Power BI report
 
