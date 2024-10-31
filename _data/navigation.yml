@@ -4,4 +4,6 @@ projects:
     children:
       - title: "Power BI projects"
         url: PowerBI.html
+      - title: "Testimonials"
+        url: Testimonials.html
 
