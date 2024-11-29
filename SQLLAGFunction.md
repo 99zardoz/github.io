@@ -22,6 +22,9 @@ LAG has the following syntax: `LAG(field name,offset,default)`
  - offset is how many rows you want to go back e.g. 1
  - default is the value the function should return if no value is found e.g. 0
 
+When you use LAG or many of then window functions you must include an ORDER BY or PARTITION BY clause.  This defines the boundary over which the function operates i.e
+the "window" for the window function.  In this example, we just use ORDER BY Visit.Id to express that we want to apply our window to each visit id, which in this case is each row.  For more information on this clause see Microsoft <a href="https://learn.microsoft.com/en-us/sql/t-sql/queries/select-over-clause-transact-sql?view=sql-server-ver16">here</a>
+
 ## Worked example of LAG usage
 
 In this example, we have a scenario where a Journey is made with a number of Visits, which are stored in the Visit table. <br>
