@@ -85,7 +85,7 @@ CREATE TABLE Journey
    VALUES(3,'BS1 1AA','2024-09-05 09:25',93);
   
 
-    WITH Journey_Breakdown
+  WITH Journey_Breakdown
   (JourneyId,VisitDateTime,WorkingTime,TravelTime)
   AS
   (SELECT Journey.Id As JourneyId,

@@ -110,5 +110,10 @@ WITH Journey_Breakdown
   ON Journey_Breakdown.JourneyId=Journey.Id
   GROUP BY Journey.Id,Journey.StartDateTime,Journey.StartPostcode,Journey.EndDateTime,Journey.EndPostcode,Journey.HomeJourneyMins,Driver.Forename,Driver.Surname
 ~~~
+
+This should generate the following results with the test data supplied in the script.
+
+![Results](/assets/images/SQLLagResults.png)
+
 We use `LAG(fieldname,1,0)` to move back one row in the result set and take 0 as the default if no value is found.
 Have fun with the LAG function and let me know how you use it!
