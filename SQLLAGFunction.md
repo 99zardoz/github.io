@@ -7,11 +7,13 @@ author_profile: true
 sidebar:
   nav: "projects"
 ---
+In my previous role I was asked to develop a report on how journey time broke down into time at an address and time travelling between addresses and I used the LAG window function to help me deliver this. 
 
 Window functions are a set of functions used to extract additional information from the result set.  They add an additional aggregated field for each row. <br>
 There is a great article on window functions in general from Brent Ozar <a href="https://www.brentozar.com/sql-syntax-examples/window-function-examples-sql-server/">here</a>.
 My article shows how the LAG window function can be used to extract information about a previous row in the result set and apply it to the current row.
-Although we don't use it here, LEAD works in a similar way but on the next row of the result set.
+Although we don't use it here, LEAD works in a similar way but on the next row of the result set.<br>
+
 
 ### LAG syntax
 
@@ -71,7 +73,7 @@ A SQL script is <a href="LagAndLeadDemo.sql">attached</a> for anyone who wants t
 ### The SQL to calculate the total working and travel time for each trip
 
 Once we have the tables we can build the SQL to find the total working and travel time. <br> We create a common table expression (CTE) which contains data about each visit.
-The crucial part of the CTE is the CASE statement which gives us the travel time TO this Visit.  It can be broken down as follows:<br>
+The crucial part of the CTE is the CASE statement which gives us the travel time <strong>to</strong> this Visit.  It can be broken down as follows:<br>
 
 - Is this visit in the same journey as the previous visit?
 	- If so, then calculate the previous visit end time by adding DurationMins to the VisitDateTime, then calculate the difference in minutes between the end time and the 
@@ -80,7 +82,7 @@ The crucial part of the CTE is the CASE statement which gives us the travel time
 
 
 We can then join this CTE to Journey and do a GROUP BY  so that we get the total working time and travel time for each Journey.  Note we have to add on HomeJourneyMins
-for each Journey so this is included in the travel time.
+for each Journey so we include the "back to base" time.
 
 ~~~
 WITH Journey_Breakdown
