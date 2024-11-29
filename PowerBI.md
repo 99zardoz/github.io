@@ -8,8 +8,6 @@ sidebar:
   nav: "projects"
 ---
 
-## COVID Power BI report
-
 I developed a report on COVID during Jan - July 2020 using public domain data from <a href="https://www.kaggle.com/datasets/imdevskp/corona-virus-report">Kaggle<a/>.  The goal is to show the changes in case, death and recovery rates during the early stages of the COVID pandemic.
 The report uses mainly bar and line charts with slicers.  It was developed using a free Power BI license so I am unable to add a link to the reports directly.  However the .pbix file can be downloaded [here](COVID2.pbix)
 

@@ -15,7 +15,7 @@ Although we don't use it here, LEAD works in a similar way but on the next row o
 
 ### LAG syntax
 
-LAG has the following syntax: LAG(field name,offset,default)
+LAG has the following syntax: `LAG(field name,offset,default)`
  - field name is the name of the field in the result set you want to examine e.g. Journey.JourneyId
  - offset is how many rows you want to go back e.g. 1
  - default is the value the function should return if no value is found e.g. 0
