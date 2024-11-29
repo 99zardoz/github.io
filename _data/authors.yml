@@ -10,3 +10,6 @@ Jonathan Shields:
      - label: "My GitHub repositories"
        icon: "fas fa-fw fa-link"
        url: "https://github.com/99zardoz?tab=repositories"
+     - label: "Testimonials"
+       icon: "fas fa-fw fa-link"
+       url: "https://99zardoz.github.io/github.io/Testimonials.html"

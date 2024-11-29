@@ -6,5 +6,3 @@ projects:
         url: PowerBI.html
       - title: "Using the SQL Server LAG() function"
         url: SQLLAGFunction.html
-      - title: "Testimonials"
-        url: Testimonials.html
