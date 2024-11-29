@@ -2,8 +2,10 @@
 projects:
   - title: Projects
     children:
-      - title: "Power BI COVID project"
+      - title: "Power BI COVID dashboards"
         url: PowerBI.html
+      - title: "Using the SQL Server LAG() function"
+        url: SQLLAGFunction.html
       - title: "Testimonials"
         url: Testimonials.html
 
