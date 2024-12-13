@@ -7,7 +7,7 @@ email: jps1608@googlemail.com
 description: >- # this means to ignore newlines until "baseurl:"
     Data analytics professional with software development experience
 sidebar:
-  nav: "projects"
+  nav: "links"
 ---
 
 ## Data analytics professional with software development experience

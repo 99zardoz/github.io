@@ -5,7 +5,7 @@ permalink: PowerBI.html
 author: Jonathan Shields
 author_profile: true
 sidebar:
-  nav: "projects"
+  nav: "links"
 ---
 
 I developed a report on COVID during Jan - July 2020 using public domain data from <a href="https://www.kaggle.com/datasets/imdevskp/corona-virus-report">Kaggle<a/>.  The goal is to show the changes in case, death and recovery rates during the early stages of the COVID pandemic.

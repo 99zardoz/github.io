@@ -5,7 +5,7 @@ permalink: Testimonials.html
 author: Jonathan Shields
 author_profile: true
 sidebar:
-  nav: "projects"
+  nav: "links"
 ---
 
 ## Dan Westmorland, Software Team Lead
