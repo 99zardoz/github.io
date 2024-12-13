@@ -10,8 +10,7 @@ sidebar:
 
 As part of an assignment on my Data Analytics career accelerator course with the London School of Economics I developed a set of Tableau dashboards using data from 2Market, a fictional supermarket.
 
-<a href="https://public.tableau.com/views/2Marketprojectdashboard/Dashboardspendbyagecategory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
-Click here to see the dashboards on Tableau public</a>             
+<a href="https://tabsoft.co/3DdAaot">Click here to see the dashboards on Tableau public</a>             
 
 I enjoyed learning to use Tableau and I think it provides some nice visualisations and features.  The experience is a little smoother than Power BI although at a higher cost.
 
