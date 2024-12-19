@@ -8,7 +8,7 @@ sidebar:
   nav: "links"
 ---
 
-As part of an assignment on my Data Analytics career accelerator course with the London School of Economics I developed a set of Tableau dashboards using data from 2Market, a fictional supermarket.
+As part of my Data Analytics career accelerator course with LSE I developed a set of Tableau dashboards using data from 2Market, a fictional supermarket.  The goal was to illustrate customer demographics (focussing on age and number of children), show sales by product type and market and show which social media platforms were most effective for advertising.
 
 <a href="https://tabsoft.co/3DdAaot">Click here to see the dashboards on Tableau public</a>             
 

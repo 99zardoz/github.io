@@ -1,15 +1,9 @@
-# main links
 links:
-  - title: Power BI
+  - title: Projects
     children:
-      - title: "Power BI COVID dashboards"
-        url: PowerBI.html
-
-  - title: SQL
-    children:
-      - title: "Using the SQL Server LAG() function"
-        url: SQLLAGFunction.html
-  - title: Tableau
-    children:
-      - title: "Tableau dashboards for 2Market"
-        url: Tableau2Market.html
+       - title: "Power BI COVID dashboards"
+         url: PowerBI.html
+       - title: "Using the SQL Server LAG() function"
+         url: SQLLAGFunction.html
+       - title: "Tableau dashboards for 2Market"
+         url: Tableau2Market.html

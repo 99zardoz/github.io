@@ -1,15 +1,12 @@
 Jonathan Shields:
   name        : "Jonathan Shields"
-  bio         : "Data Analyst with 20 years software development experience"
+  bio         : "Data Analyst with 25 years software development experience"
   avatar      : "/assets/images/Headshot.jpg"
   location     : "Chelmsford, Essex, UK"
   links:
      - label: "LinkedIn"
        icon: "fas fa-fw fa-link"
        url: "https://www.linkedin.com/in/jonathan-shields-5444674a/"
-     - label: "My GitHub repositories"
-       icon: "fas fa-fw fa-link"
-       url: "https://github.com/99zardoz?tab=repositories"
      - label: "Testimonials"
        icon: "fas fa-fw fa-link"
        url: "Testimonials.html"
