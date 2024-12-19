@@ -8,22 +8,22 @@ sidebar:
   nav: "links"
 ---
 
-I developed a report on COVID during Jan - July 2020 using public domain data from <a href="https://www.kaggle.com/datasets/imdevskp/corona-virus-report">Kaggle<a/>.  The goal is to show the changes in case, death and recovery rates during the early stages of the COVID pandemic.
+I was interested in how Power BI could be used to tell a story about COVID, so I developed some reports using public domain data from <a href="https://www.kaggle.com/datasets/imdevskp/corona-virus-report">Kaggle<a/>.  The goal is to show the changes in case, death and recovery rates during the early stages of the COVID pandemic.
 
 <iframe title="COVID2" width="800" height="486" src="https://app.powerbi.com/view?r=eyJrIjoiNTVkMTIwNjgtZjY3MS00ZmVhLTljODUtOTkxY2RjZmY1ODBhIiwidCI6IjZiZjM5YTM1LTMxNjUtNDQ4Ny1iNzk3LWEyODA4NTZmN2VjYyJ9" frameborder="0" allowFullScreen="true"></iframe>
 
 The report uses mainly bar and line charts with slicers. 
 
 The first page shows a table of the top 10 countries by number of confirmed cases at the end of the reporting period.  Clicking a row on the table filters the line charts
-to data from that country only.  The line charts show average confirmed cases and deaths across the reporting period for all countries.
+to data from that country only.  The line charts show average confirmed cases and deaths across the reporting period for all countries.  As we would expect we see sharp increases from April to June 2020.
 
 ![First Page](/assets/images/Page1.png)
 
-The second page breaks down cumulative confirmed cases and deaths by WHO region at the end of the reporting period.
+The second page breaks down cumulative confirmed cases and deaths by WHO region at the end of the reporting period. We see a lot more cases in the US but given the populations regions such as Africa, was there some under-reporting?
 
 ![Second Page](/assets/images/Page2.png)
 
-The third page shows the changes in new cases and new deaths across the reporting period using line charts.  A slicer allows this to be refined by WHO region, or all regions.
+The third page shows the changes in new cases and new deaths across the reporting period using line charts.  A slicer allows this to be refined by WHO region, or all regions. We the expected increase in new cases but also an interesting set of secondary peaks and troughs.
 
 ![Third Page](/assets/images/Page3.png)
 

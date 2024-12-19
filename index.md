@@ -14,7 +14,7 @@ sidebar:
 ### [Email](mailto:jps1608@googlemail.com) jps1608@googlemail.com
 ### About me
 I am a data analyst excited by working with data and using it to deliver insights and solutions.  I am currently studying on the <a href="https://www.lse.ac.uk/study-at-lse/online-learning/courses/data-analytics">Data Analytics postgraduate career accelerator course</a> run by  <a href="https://www.lse.ac.uk/">LSE</a> and <a href="https://fourthrev.com/">FourthRev</a>. This involves learning data analytics using Excel, SQL, Tableau, Python and R. <br> I used my recent career break to learn Power BI and gain Microsoft Power BI Data Analyst Associate certification. <br>
-In my previous development role I was involved with Agile web API development using C# , .net Core and SQL Server. I also have experience in .net Winforms applications. <br>
+In my previous role I was involved with Agile web API and Winforms development using C# , .net Core and SQL Server.<br>
 I worked closely with key users throughout the business to make sure that applications delivered what was needed.<br>
 I have skills in SSIS, SSRS and SQL server database administration and also have experience of requirements gathering and 3rd line support. <br>
 Outside of work I enjoy astronomy, keeping fit and reading.
@@ -33,8 +33,7 @@ Worked on a range of projects for different clients, including Ford Motor Compan
 There was also involvement in systems analysis, 3rd line support and testing.
 
 ## Education
-Currently studying on the Data Analytics Career Accelerator course with LSE and FourthRev
-Learning data analysis using Excel, SQL, Tableau, Python and R
+Currently studying on the Data Analytics Career Accelerator course with LSE and FourthRev. Learning data analysis using Excel, SQL, Tableau, Python and R.
 
 BSc Physics 2:1 Leicester University (1996)
 
