@@ -1,5 +1,5 @@
 links:
-  - title: Projects
+  - title: Links to Projects
     children:
        - title: "Power BI COVID dashboards"
          url: PowerBI.html
