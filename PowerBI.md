@@ -6,6 +6,7 @@ author: Jonathan Shields
 author_profile: true
 sidebar:
   nav: "links"
+classes: wide
 ---
 
 I was interested in how Power BI could be used to tell a story about COVID, so I developed some reports using public domain data from <a href="https://www.kaggle.com/datasets/imdevskp/corona-virus-report">Kaggle<a/>.  The goal is to show the changes in case, death and recovery rates during the early stages of the COVID pandemic.

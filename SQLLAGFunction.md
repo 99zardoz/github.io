@@ -6,6 +6,7 @@ author: Jonathan Shields
 author_profile: true
 sidebar:
   nav: "links"
+classes: wide
 ---
 In my previous role I was asked to develop a report on how journey time broke down into time at an address and time travelling between addresses and I used the LAG window function to help me deliver this. 
 

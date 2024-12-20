@@ -1,3 +1,7 @@
+main:
+       - title: "Testimonials"
+         url: Testimonials.html
+
 links:
   - title: Links to Projects
     children:
@@ -7,3 +11,5 @@ links:
          url: SQLLAGFunction.html
        - title: "Tableau dashboards for 2Market"
          url: Tableau2Market.html
+       - title: "Excel cleaning and analysis for 2Market"
+         url: Excel2Market.html

@@ -6,6 +6,7 @@ author: Jonathan Shields
 author_profile: true
 sidebar:
   nav: "links"
+classes: wide
 ---
 
 ## Dan Westmorland, Software Team Lead
