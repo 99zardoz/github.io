@@ -25,7 +25,7 @@ classes: wide
 
 <i>He was also a pleasure to work with, a good laugh and I would always be pleased if I knew he was joining our projects.</i>
 
-## Stuart Bultitide, IT Development Team Leader
+## Stuart Bultitude, IT Development Team Leader
 
 <i>As IT Development Team Leader I managed Jonathan for over five years. Jonathan was a credit to my team and to the National Centre for Social Research (NatCen). Jonathan has many years worth of development experience across a whole range of software languages. He is passionate about what he does and is very knowledgeable. Jonathan is motivated to learn new skills and would always relish a challenge. He is trustworthy, hard working and extremely loyal and I would have no hesitation in recommending him.</i>
 
