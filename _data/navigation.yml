@@ -5,6 +5,8 @@ main:
 links:
   - title: Links to Projects
     children:
+       - title: "NHS data analysis with Python"
+         url: "NHSPython.html"
        - title: "Power BI COVID dashboards"
          url: PowerBI.html
        - title: "Using the SQL Server LAG() function"

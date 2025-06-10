@@ -3,6 +3,7 @@ Jonathan Shields:
   bio         : "Data Analyst with 25 years software development experience"
   avatar      : "/assets/images/Headshot1.jpg"
   location     : "Chelmsford, Essex, UK"
+  email: "jps1608@googlemail.com"
   links:
      - label: "LinkedIn"
        icon: "fas fa-fw fa-link"
