@@ -1,6 +1,8 @@
 main:
        - title: "Testimonials"
          url: Testimonials.html
+       - title: "Github for LSE project work"
+         url: https://github.com/99zardoz/LSE_ProjectWork
 
 links:
   - title: Links to Projects
