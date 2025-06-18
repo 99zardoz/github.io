@@ -32,11 +32,13 @@ A daily utilisation for each month was derived by taking number of appointments 
 
 ![Utilisation](/assets/images/monthlyutilisation.png)
 
-Some of the Python code to plot the utilisation data and format the chart is shown below.  The entire Jupyter Notebook will be posted to my GitHub repository.
+Some of the Python code to plot the utilisation data and format the chart is shown below.  The entire Jupyter Notebook is at my GitHub repo here ![Github](https://github.com/99zardoz/LSE_ProjectWork/blob/main/Module_2_Diagnostic_Analytics_Python/Shields_Jonathan_DA201_Assignment_Notebook.ipynb)
 
 ![Matplotlib](/assets/images/codeplot.png)
 
-The project was a good introduction to Python and the powerful libraries available for data analytics.  I am looking forward to the next module covering machine learning.
+The project was a good introduction to Python and the powerful libraries available for data analytics.  My conclusion was that if capacity was calculated using the number of working days in each month covered by the period in which the three sources overlapped then the maximum capacity was exceeded in most months.  Whilst it is perhaps not a great surprise to find that the NHS requires more resources it is instructive to go through the process of producing data-driven insights to prove it.
+
+I am looking forward to the next module covering machine learning.
 
 
 
